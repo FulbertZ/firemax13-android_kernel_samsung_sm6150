@@ -1,0 +1,1 @@
+# firemax13-android_kernel_samsung_sm6150
