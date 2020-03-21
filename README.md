@@ -2,17 +2,7 @@
 
 Samsung Galaxy A80 (A805F/DS)
 
-CPU & Device specification:
-
-Model: Qualcomm Technologies, Inc SMMAGPIE
-
-Cores: 8
-
-Clock Speed: 300mhz - 2.21ghz
-
-GPU Renderer: Adreno (TM) 618 @ 700mhz
-
-Scaling Governor: schedutil
+Device & CPU specification:
 
 Model: SM-A805F
 
@@ -22,6 +12,20 @@ Board: sm6150
 
 Hardware: qcom
 
+Model: Qualcomm Technologies, Inc SMMAGPIE
+
+Cores: 8
+
+big.LITTLE: HMP (2 clusters)
+
+Clock Speed: 300mhz - 2.21ghz
+
+GPU Renderer: Adreno (TM) 618 @ 700mhz
+
+Scaling Governor: schedutil
+
 Kernel Architecture: aarch64 (64bit)
 
 Kernl Version: 4.14.83-16261802
+
+
