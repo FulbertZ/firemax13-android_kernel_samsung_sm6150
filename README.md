@@ -1,5 +1,9 @@
 # firemax13-android_kernel_samsung_sm6150
 
+Midrange Phone with flipping/rotating camera module.
+
+Samsung Galaxy A80 unleashed last May 2019.
+
 ## Device specifications
 
 | Device       | Samsung Galaxy A80 (SM-A805F/DS)                |
