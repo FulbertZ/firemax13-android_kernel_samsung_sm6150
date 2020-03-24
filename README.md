@@ -1,5 +1,7 @@
 # firemax13-android_kernel_samsung_sm6150
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cc7f7bc2b2d34697af2bbb6d55dc1a50)](https://www.codacy.com/manual/mydadisbrave2/firemax13-android_kernel_samsung_sm6150?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=firemax13/firemax13-android_kernel_samsung_sm6150&amp;utm_campaign=Badge_Grade)
+
 Midrange Phone with flipping/rotating camera module.
 
 Samsung Galaxy A80 unleashed last May 2019.
