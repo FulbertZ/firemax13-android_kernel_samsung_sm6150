@@ -1,7 +1,7 @@
 cc_binary_host {
     name: "unifdef",
     srcs: ["scripts/unifdef.c"],
-    sanitize: {
+    sanitizes: {
         never: true,
     }
 }
