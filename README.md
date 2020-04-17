@@ -1,19 +1,19 @@
 # firemax13-android_kernel_samsung_sm6150
-## Kernel Source Code for Samsung Galaxy A80 (SM-A805F)
-### Kernel Source Code Updated to A805FXXU4BTC3 (Android 10, OneUI2.0)
 
-Manufacturer: Samsung
+## Kernel Source Code for Samsung Galaxy A80 (SM-A805F) (SM-A805F/DS)
 
-Device Code: r1q
+* Manufacturer: Samsung
 
-Board: sm6150
+* Device Code: r1q
 
-Architecture: aarch64 (64bit)
+* Board: sm6150
 
-Instruction Set: arm64-v8a armeabi-v7a armeabi
+* Architecture: aarch64 (64bit)
 
-Kernel Version: 4.14.117
+* Instruction Set: arm64-v8a armeabi-v7a armeabi
 
-Kernel Source Code is Under GPL 3.0 LICENSE
+* Kernel Version: 4.14.117
 
-Platform is Under APACHE 2.0 LICENSE
+* Kernel Source Code is Under GPL 3.0 LICENSE
+
+* Platform is Under APACHE 2.0 LICENSE
